@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏢 Leave Approval Management System
 
 A modern, full-stack **Employee Leave Management System** built with **Django REST Framework** and **React**, demonstrating production-ready software engineering practices, scalable architecture, and professional UI/UX.
@@ -601,3 +602,6 @@ For issues, questions, or suggestions:
 - [Vite Guide](https://vitejs.dev/)
 
 **Last Updated**: 2024
+=======
+# Leave-Management-Approval-System
+>>>>>>> 9f7466891c95af7c660fab1221b4a9a266790ab7
