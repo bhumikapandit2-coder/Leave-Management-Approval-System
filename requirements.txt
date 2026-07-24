@@ -1,0 +1,50 @@
+# Core Django
+Django==6.0.7
+djangorestframework==3.14.0
+django-rest-framework-simplejwt==5.2.2
+
+# CORS Headers
+django-cors-headers==4.0.0
+
+# Database
+psycopg2-binary==2.9.6
+python-decouple==3.8
+dj-database-url==2.0.0
+
+# Production Server
+gunicorn==20.1.0
+whitenoise==6.4.0
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Validation
+django-validators==23.0.0
+
+# Utilities
+requests==2.31.0
+Pillow==10.0.0
+
+# Testing
+pytest==7.4.0
+pytest-django==4.5.2
+pytest-cov==4.1.0
+
+# Code Quality
+flake8==6.0.0
+black==23.7.0
+isort==5.12.0
+
+# API Documentation
+drf-spectacular==0.26.2
+
+# Caching & Performance
+django-redis==5.2.0
+redis==5.0.0
+
+# Logging
+python-json-logger==2.0.7
+
+# Security
+django-cors-headers==4.0.0
+django-environ==0.10.0
